@@ -1,0 +1,30 @@
+body {
+	text-align: center;
+}
+
+h1{
+    position: absolute;
+	color: #f53d8d;
+	left: 600px;
+}
+
+input {
+	background-color:#f53d8d;
+	font-size: 6vw;
+	width: 10vw;
+	height:10vw;
+	margin: 0;
+	color: #f598b7;
+    border-radius: 15px;
+}
+
+#reiniciar {
+	position: absolute;
+	margin-top: 1%;
+	width: 8vw;
+	height:3vw;
+	font-size: 1em;
+	color: black;
+	font-family: Comic Sans;
+	left: 820px;
+}
